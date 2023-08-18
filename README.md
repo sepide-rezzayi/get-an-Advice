@@ -1,2 +1,2 @@
 # get-an-Advice
-Created with CodeSandbox
+this is simple project of REACT.
